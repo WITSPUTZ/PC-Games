@@ -1,0 +1,15 @@
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\bin\Debug\Worms Armageddon Mission Editor.exe
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\bin\Debug\Worms Armageddon Mission Editor.pdb
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\bin\Debug\Worms Armageddon Mission Editor.xml
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\Worms_Armageddon_Mission_Editor.Form1.resources
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\Worms_Armageddon_Mission_Editor.Resources.resources
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\Worms Armageddon Mission Editor.exe
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\Worms Armageddon Mission Editor.xml
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\Worms Armageddon Mission Editor.pdb
+c:\users\santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\bin\Debug\Worms Armageddon Mission Editor.exe.config
+C:\Users\Santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\Worms_Armageddon_Mission_Editor.Terrain.resources
+C:\Users\Santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\bin\Debug\WormsNET.dll
+C:\Users\Santiago\documents\visual studio 2010\Projects\Worms Armageddon Mission Editor\Worms Armageddon Mission Editor\obj\x86\Debug\Worms_Armageddon_Mission_Editor.Weapons.resources
