@@ -1,0 +1,14 @@
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\bin\Debug\IFFExplorer.exe
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\bin\Debug\IFFExplorer.pdb
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\bin\Debug\IFFExplorer.xml
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\bin\Debug\SimsLib.dll
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\IFFExplorer.Form1.resources
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\IFFExplorer.Resources.resources
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\IFFExplorer.exe
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\IFFExplorer.xml
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\IFFExplorer.pdb
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\obj\x86\Debug\IFFExplorer.Settings.resources
+C:\Users\Santiago\documents\visual studio 2010\Projects\SimsNeighborhoodEditor\IFFExplorer\bin\Debug\IFFExplorer.exe.config
