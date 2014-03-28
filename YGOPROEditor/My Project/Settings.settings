@@ -1,0 +1,114 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Chars" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">")</Value>
+    </Setting>
+    <Setting Name="AIInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Debug.SetPlayerInfo(1,</Value>
+    </Setting>
+    <Setting Name="AIinfo2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,0,0)</Value>
+    </Setting>
+    <Setting Name="PlayerInfo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Debug.SetPlayerInfo(0,</Value>
+    </Setting>
+    <Setting Name="PlayerInfo2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,0,0)</Value>
+    </Setting>
+    <Setting Name="ReloadField" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Debug.ReloadFieldEnd()</Value>
+    </Setting>
+    <Setting Name="ShowHint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Debug.ShowHint("</Value>
+    </Setting>
+    <Setting Name="ShowHint2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">")</Value>
+    </Setting>
+    <Setting Name="BeginPuzzle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">aux.BeginPuzzle()</Value>
+    </Setting>
+    <Setting Name="AddCard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Debug.AddCard(</Value>
+    </Setting>
+    <Setting Name="AINAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Debug.SetAIName("</Value>
+    </Setting>
+    <Setting Name="PLAYERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Debug.SetPlayerName("</Value>
+    </Setting>
+    <Setting Name="BeginReload" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Debug.ReloadFieldBegin(</Value>
+    </Setting>
+    <Setting Name="Bars" Type="System.String" Scope="User">
+      <Value Profile="(Default)">)</Value>
+    </Setting>
+    <Setting Name="DAta" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cardsSQl" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=|DataDirectory|\cards.sql&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;Microsoft.SqlServerCe.Client.3.5&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=|DataDirectory|\cards.sql</Value>
+    </Setting>
+    <Setting Name="cardsConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\cards.mdf;Integrated Security=True;User Instance=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;Microsoft.SqlServerCe.Client.3.5&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\cards.mdf;Integrated Security=True;User Instance=True</Value>
+    </Setting>
+    <Setting Name="cardsConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Misc\cards.mdf;Integrated Security=True;User Instance=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Misc\cards.mdf;Integrated Security=True;User Instance=True</Value>
+    </Setting>
+    <Setting Name="Database1ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True;User Instance=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True;User Instance=True</Value>
+    </Setting>
+    <Setting Name="GameDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TurnCount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Duel.GetTurnCount()</Value>
+    </Setting>
+    <Setting Name="Database1ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=|DataDirectory|\Database1.sdf&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;Microsoft.SqlServerCe.Client.3.5&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=|DataDirectory|\Database1.sdf</Value>
+    </Setting>
+    <Setting Name="cardsConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;data source=C:\cards.cdb&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SQLite&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">data source=C:\cards.cdb</Value>
+    </Setting>
+    <Setting Name="MathRandomset" Type="System.String" Scope="User">
+      <Value Profile="(Default)">math.randomseed( require("os").time() )</Value>
+    </Setting>
+    <Setting Name="CharSimple" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"</Value>
+    </Setting>
+    <Setting Name="Keywords" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
